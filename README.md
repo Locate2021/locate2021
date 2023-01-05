@@ -1,1 +1,1 @@
-This is a website.
+这是一个网站，请敬而远之，谢谢。
